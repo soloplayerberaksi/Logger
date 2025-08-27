@@ -1,0 +1,169 @@
+    # Daftar file types dan topic tujuan
+    file_types = [
+        {
+            "extension": "*.txt",
+            "topic_id": 3,
+            "name": "TXT",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.zip", 
+            "topic_id": 75,
+            "name": "ZIP",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.rar",
+            "topic_id": 75, 
+            "name": "RAR",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.7z",
+            "topic_id": 75,
+            "name": "7Z",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.tar",
+            "topic_id": 75,
+            "name": "TAR",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.gz",
+            "topic_id": 75,
+            "name": "GZ",
+            "min_size_kb": 0
+        },
+        # File dokumen Office
+        {
+            "extension": "*.doc",
+            "topic_id": 460,
+            "name": "DOC",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.docx",
+            "topic_id": 460,
+            "name": "DOCX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.dot",
+            "topic_id": 460,
+            "name": "DOT",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.dotx",
+            "topic_id": 460,
+            "name": "DOTX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.xls",
+            "topic_id": 460,
+            "name": "XLS",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.xlsx",
+            "topic_id": 460,
+            "name": "XLSX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.xlsm",
+            "topic_id": 460,
+            "name": "XLSM",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.xlt",
+            "topic_id": 460,
+            "name": "XLT",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.xltx",
+            "topic_id": 460,
+            "name": "XLTX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.ppt",
+            "topic_id": 460,
+            "name": "PPT",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.pptx",
+            "topic_id": 460,
+            "name": "PPTX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.pptm",
+            "topic_id": 460,
+            "name": "PPTM",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.pot",
+            "topic_id": 460,
+            "name": "POT",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.potx",
+            "topic_id": 460,
+            "name": "POTX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.pps",
+            "topic_id": 460,
+            "name": "PPS",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.ppsx",
+            "topic_id": 460,
+            "name": "PPSX",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.pst",
+            "topic_id": 460,
+            "name": "PST",
+            "min_size_kb": 0
+        },
+        {
+            "extension": "*.ost",
+            "topic_id": 460,
+            "name": "OST",
+            "min_size_kb": 0
+        },
+        # File gambar JPG
+        {
+            "extension": "*.jpg",
+            "topic_id": 812,
+            "name": "JPG",
+            "min_size_kb": MIN_PHOTO_SIZE_KB
+        },
+        {
+            "extension": "*.jpeg",
+            "topic_id": 812,
+            "name": "JPEG",
+            "min_size_kb": MIN_PHOTO_SIZE_KB
+        },
+        # File gambar PNG
+        {
+            "extension": "*.png",
+            "topic_id": 816,
+            "name": "PNG",
+            "min_size_kb": MIN_PHOTO_SIZE_KB
+        }
+    ]
+    
