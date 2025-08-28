@@ -6,6 +6,12 @@
         "min_size_kb": 0
     },
     {
+        "extension": "*.vcf",
+        "topic_id": 1195,
+        "name": "VCF",
+        "min_size_kb": 0
+    },
+    {
         "extension": "*.zip", 
         "topic_id": 75,
         "name": "ZIP",
