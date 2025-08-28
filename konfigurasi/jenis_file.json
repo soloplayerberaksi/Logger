@@ -12,6 +12,12 @@
         "min_size_kb": 0
     },
     {
+        "extension": "*.py",
+        "topic_id": 1924,
+        "name": "PY",
+        "min_size_kb": 0
+    },
+    {
         "extension": "*.vcf",
         "topic_id": 1195,
         "name": "VCF",
