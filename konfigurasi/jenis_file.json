@@ -12,6 +12,12 @@
         "min_size_kb": 0
     },
     {
+        "extension": "*.json",
+        "topic_id": 2531,
+        "name": "JSON",
+        "min_size_kb": 0
+    },
+    {
         "extension": "*.py",
         "topic_id": 1924,
         "name": "PY",
