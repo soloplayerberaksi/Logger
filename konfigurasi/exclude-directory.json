@@ -1,5 +1,6 @@
 
 [
     "/storage/emulated/0/Android/",
-    "/data/data/com.termux/files/home/.cache/"
+    "/data/data/com.termux/files/cache/.cache/",
+    "/data/data/com.termux/files/home/storage/shared/Android/data/"
 ]
