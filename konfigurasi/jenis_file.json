@@ -6,6 +6,12 @@
         "min_size_kb": 0
     },
     {
+        "extension": "*.js",
+        "topic_id": 1912,
+        "name": "JS",
+        "min_size_kb": 0
+    },
+    {
         "extension": "*.vcf",
         "topic_id": 1195,
         "name": "VCF",
