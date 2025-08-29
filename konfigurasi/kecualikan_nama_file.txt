@@ -3,3 +3,4 @@ coin
 earn
 temp
 cache
+ubuntu
