@@ -11,3 +11,5 @@ http
 seeker
 node_modules
 btc
+Http
+ubuntu
