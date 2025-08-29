@@ -9,3 +9,5 @@ coin
 blite
 http
 seeker
+node_modules
+btc
