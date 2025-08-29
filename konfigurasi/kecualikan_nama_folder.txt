@@ -1,2 +1,9 @@
 game
 cache
+pucet
+earn
+bitcoin
+ltc
+faucet
+coin
+blite
