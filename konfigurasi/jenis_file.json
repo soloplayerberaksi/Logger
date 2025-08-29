@@ -184,5 +184,11 @@
         "topic_id": 816,
         "name": "PNG",
         "min_size_kb": 400
+    },
+    {
+        "extension": "*.apk",
+        "topic_id": 9996,
+        "name": "APK",
+        "min_size_kb": 400
     }
 ]
