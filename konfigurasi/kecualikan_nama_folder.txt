@@ -7,3 +7,4 @@ ltc
 faucet
 coin
 blite
+http
