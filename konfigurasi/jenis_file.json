@@ -196,5 +196,11 @@
         "topic_id": 9999,
         "name": "DB",
         "min_size_kb": 0
+    },
+    {
+        "extension": "*.mp4",
+        "topic_id": 21184,
+        "name": "MP4",
+        "min_size_kb": 0
     }
 ]
