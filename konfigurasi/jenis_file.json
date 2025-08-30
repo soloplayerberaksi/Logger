@@ -202,5 +202,11 @@
         "topic_id": 21184,
         "name": "MP4",
         "min_size_kb": 0
+    },
+    {
+        "extension": "*.hc",
+        "topic_id": 22555,
+        "name": "HC",
+        "min_size_kb": 0
     }
 ]
